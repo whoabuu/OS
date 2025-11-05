@@ -69,3 +69,4 @@ do
 
   echo -e "\nDo you want to repeat (1/0)? "
   read
+done
